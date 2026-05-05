@@ -120,7 +120,7 @@ nav{
 } 
 .hero{
     grid-area: hero;
-    background-image: url(../banner-image.png);
+    background-image: url(banner-image.png);
     background-position: center;
     background-size: cover;
     height: 400px;
